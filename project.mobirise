@@ -967,9 +967,10 @@
               "name": "hearth",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title1": "Profesional Ice Skater",
@@ -983,9 +984,10 @@
               "name": "video",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title2": "Actress",
@@ -999,9 +1001,10 @@
               "name": "change-style",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title3": "Animator",
@@ -1015,9 +1018,10 @@
               "name": "website-theme",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title4": "Animation Studio",
